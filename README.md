@@ -6,3 +6,4 @@ tutorial
 # branch additions
 # merger needs to bo known
 # ssh protocal
+# subl default txt editor
