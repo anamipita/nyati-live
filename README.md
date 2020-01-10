@@ -7,4 +7,5 @@ tutorial
 # merger needs to bo known
 # ssh protocal
 # subl default txt editor
-#testing
+# added new staff
+# testing
