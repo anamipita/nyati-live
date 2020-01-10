@@ -9,5 +9,6 @@
 # merger needs to bo known
 # ssh protocal
 # subl default txt editor
+# added new staff
 # testing
 # finalize
