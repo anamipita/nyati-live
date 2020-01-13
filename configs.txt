@@ -1,0 +1,24 @@
+BETIKA-SHOP
+========================================================================================================================
+
+# common/config/main-local.php
+# frontend/config/main.php
+# frontend/configs/params.php
+------------------------------------------------------------------------------------------------------------------------
+
+CS-PORTAL
+========================================================================================================================
+
+# php init
+# install composer
+# chmod -R 777
+# rename browser-assets to bower
+# copy testbed db to common/main-local
+# copy frontend/config/main (from betika-portal)
+# copy from slack to common/main.php
+------------------------------------------------------------------------------------------------------------------------
+
+Betika web
+
+# npm install
+#npm run dev
